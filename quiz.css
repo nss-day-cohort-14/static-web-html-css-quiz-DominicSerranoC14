@@ -7,7 +7,7 @@ The availability element extends the full width of the card, with a dark grey ba
 
 /*  base element selectorss  */
 
-* {
+body {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
